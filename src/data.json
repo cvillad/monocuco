@@ -396,5 +396,17 @@
       "name": "Jesus Santiago",
       "link": "https://github.com/jaravad"
     }
+  },
+  {
+  "text": "Eche",
+  "meaning": "Expresión para denotar duda, desconcierto, rabia",
+  "examples": [
+    "‘Eche qué? Marica?’",
+    "‘Deja eso quieto, eche!’"
+  ],
+  "author": {
+    "name": "Carlos Villa",
+    "link": "https://github.com/cvillad"
+  }
   }
 ]
